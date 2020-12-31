@@ -9,4 +9,4 @@ Day 2: NodeJS Basics
   
 Day 3,4: Node JS + MongoDB
 
-Day 5,6,7,8: Benchmark Project
+Day 5,6,7,8: Benchmark Project (Refer to cleaned version)
